@@ -1,0 +1,3 @@
+plugins:
+  - citationjs:
+      style: citation-apa

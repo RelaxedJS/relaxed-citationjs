@@ -1,0 +1,21 @@
+{
+  "name": "relaxed-citationjs",
+  "version": "0.1.1",
+  "description": "Citation.js-powered bibliography plugin for ReLaXed",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Zulko",
+  "homepage": "https://github.com/RelaxedJS/relaxed-svg",
+  "license": "ISC",
+  "dependencies": {
+    "citation-js": "^0.4.0-5"
+  },
+  "devDependencies": {
+    "diff": "^3.5.0",
+    "mocha": "^5.2.0",
+    "pdf-image": "^2.0.0",
+    "pixel-diff": "^1.0.1"
+  }
+}
