@@ -6,7 +6,7 @@
   "scripts": {
     "test": "mocha"
   },
-  "author": "Zulko",
+  "author": "Drew-S and Zulko",
   "homepage": "https://github.com/RelaxedJS/relaxed-svg",
   "license": "ISC",
   "dependencies": {
